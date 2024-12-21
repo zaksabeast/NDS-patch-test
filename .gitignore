@@ -1,0 +1,6 @@
+*.o
+*.nds
+nds_extract/
+build/
+out/
+.DS_Store
